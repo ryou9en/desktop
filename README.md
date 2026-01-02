@@ -1,4 +1,4 @@
 # desktop
 
 Download:
- - [Windows](https://github.blog)
+ - [Windows](https://docs.github.com/en)
